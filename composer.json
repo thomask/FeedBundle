@@ -1,5 +1,5 @@
 {
-    "name": "eko/feedbundle",
+    "name": "thomask/feedbundle",
     "type": "library",
     "description": "A Symfony bundle to build RSS feeds from entities",
     "keywords": ["feed", "bundle", "rss", "atom"],
